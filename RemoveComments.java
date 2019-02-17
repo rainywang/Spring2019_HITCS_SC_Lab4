@@ -1,6 +1,6 @@
 /*
 
-This program is used for removing all the comments in a program.
+This program is used for removing all the comments in a program code.
 
 Example 1:
 Input: 
